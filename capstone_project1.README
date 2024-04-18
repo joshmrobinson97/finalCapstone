@@ -1,0 +1,6 @@
+Project name: Financial Calculator
+Description:
+This is my first introduction to importing separate modules into python.
+I use "math" to create a financial calculator which calculates either compound or simple interest
+
+the user is asked to choose the interest type and input the figures, and is given a value.

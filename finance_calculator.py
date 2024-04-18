@@ -70,5 +70,6 @@ elif option == "Bond" or option == "bond" or option == "BOND": # Coding alternat
  print(f"\nIn order to pay back your loan of £{house_value} over a period of {monthly_time} months, you must pay an average of £{repayment:.2f} per month.")
  print("\n" + "-" * 30)
  
+ 
 
 
