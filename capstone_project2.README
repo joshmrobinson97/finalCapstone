@@ -1,0 +1,18 @@
+Project name: Sentiment Analysis
+
+Description:
+
+This project is designed to read a file containing Amazon product reviews.
+It uses NLP to analyse the general sentiment of all the reviews and uses matplotlib to graph it.
+It is a good example of how I am able to turn words into useful data.
+
+Tips to install it:
+
+In order to visualise the graph, one must use Jupyter Notebook.
+Further instructions on its installation can be found here https://jupyter.org/install
+
+The list of reviews I used can be downloaded here The .csv file can be downloaded at 'https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products/download?datasetVersionNumber=5'
+Ensure you rename the file to 'amazon_product_reviews.csv' and have it in the same folder as this for it to work.
+For ease of mind, I've included it in this commit.
+
+Attempt it with other data, ensuring your rename it to match 'amazon_product_reviews.csv'.
